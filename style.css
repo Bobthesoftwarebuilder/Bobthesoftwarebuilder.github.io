@@ -1,0 +1,37 @@
+body{
+	font-size:30px;
+}
+
+h1 {
+	color:blue;
+}
+
+h2 {
+	font-size: 30px;
+}
+ol {font-size: 10px }
+h3 {
+	font-size: 30px;
+}
+
+#p3{
+	font-size: 40px;
+	background-color:green;
+}
+
+#img2 {
+	width:500px;
+}
+
+#img1 {
+	width:500px; 
+    float :right;
+}
+
+.list {
+	float:right;
+	font-size:0.8em;
+}
+p {
+	clear:both;
+}
